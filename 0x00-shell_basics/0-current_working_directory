@@ -1,3 +1,2 @@
 #!/bin/bash
-$display = pwd
-echo $display \n
+echo $(pwd) \n
