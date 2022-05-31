@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(find $PATH -type d -mindepth 10)
+find $PATH -type d -mindepth 10
