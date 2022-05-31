@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%s:/action" >> $PATH
+printf "%s:/action" >> $PATH |export $PATH
