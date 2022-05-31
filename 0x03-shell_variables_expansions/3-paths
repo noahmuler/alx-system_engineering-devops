@@ -1,2 +1,2 @@
 #!/bin/bash
-find $PATH -type d -mindepth 10
+grep --directries=recursive $PATH
