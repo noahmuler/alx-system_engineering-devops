@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -n --line-3
+grep --line 3
