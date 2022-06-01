@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -empty -name '.*'|tr -d '/'
+find . -type d -empty -name '.*'|tr -d '/~.'
