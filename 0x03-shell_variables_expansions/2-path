@@ -1,2 +1,2 @@
 #!/bin/bash
-export -f $PATH="%s:/action"
+export -f $PATH="$PATH:/action"
