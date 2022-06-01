@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -cd recurse $PATH|wc -l
+grep -c --directories recurse $PATH|wc -l
