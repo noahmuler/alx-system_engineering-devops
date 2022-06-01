@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -name '.*'|tr -d '.'|wc -l
+find . -type d -name '.*' -mindepth 1|wc -l
